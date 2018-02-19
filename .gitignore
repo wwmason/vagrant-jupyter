@@ -1,0 +1,8 @@
+# -*- mode: gitignore; -*-
+
+# Emacs detritus
+*~
+
+# Vagrant detritus
+*cloudimg-console.log
+.vagrant/
